@@ -15,7 +15,7 @@ This repo serves part of the materials for [Fullstack Developers Israel](https:/
 ### Quick run on local machine
 1. Get repo code:
 
-  `git clone git@github.com:tikal/webcam-controller-model.git`
+  `git clone git@github.com:tikalk/webcam-controller-model.git`
 2. Install requirements:
 
   `pip install -r requirements.txt`
@@ -29,10 +29,10 @@ This repo serves part of the materials for [Fullstack Developers Israel](https:/
 ### Run via Docker
 1. Get repo code:
 
-  `git clone git@github.com:tikal/webcam-controller-model.git`
+  `git clone git@github.com:tikalk/webcam-controller-model.git`
 2. Build container:
 
-  `docker build -t tikalk/webcam-controller-model:latest .`
+  `docker build -t tikal/webcam-controller-model:latest .`
 
 3. Get sample data
 
@@ -40,4 +40,4 @@ This repo serves part of the materials for [Fullstack Developers Israel](https:/
 
 4. Run the model in a container
 
-  `docker run -v "./data:/opt/data" tikalk/webcam-controller-model:latest`
+  `docker run -v "./data:/opt/data" tikal/webcam-controller-model:latest`
