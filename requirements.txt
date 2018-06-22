@@ -1,0 +1,15 @@
+Flask
+gunicorn
+flask-cors
+Flask-Uploads
+boto3
+botocore
+keras
+tensorflowjs
+tensorflow
+opencv-python
+scipy
+pillow
+matplotlib
+numpy
+sklearn
