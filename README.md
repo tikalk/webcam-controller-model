@@ -2,7 +2,7 @@ Webcam Controller Model
 -----------------------
 
 ## Synopsis
-This repo serves part of the materials for [Fullstack Developers Israel])https://www.meetup.com/full-stack-developer-il/) Meetup :: ["Developing a Webcam Arcade Controller using Deep Learning by TensorFlow & Keras"](https://www.meetup.com/full-stack-developer-il/events/248953340/)
+This repo serves part of the materials for [Fullstack Developers Israel](https://www.meetup.com/full-stack-developer-il/) Meetup :: ["Developing a Webcam Arcade Controller using Deep Learning by TensorFlow & Keras"](https://www.meetup.com/full-stack-developer-il/events/248953340/)
 
 ## Perquisites
 
